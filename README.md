@@ -33,6 +33,7 @@ Approach:
 - Hash set to track visited characters
 
 Time Complexity: O(n)  
+
 ---
 
 ### 2. Four Consecutive 1s in a Circular Binary String

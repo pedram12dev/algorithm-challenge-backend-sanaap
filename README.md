@@ -89,7 +89,7 @@ venv\Scripts\activate      # Windows
 3. Install requirements (jupyter notebook):
 
 ```
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 
 4. Run Jupyter:
